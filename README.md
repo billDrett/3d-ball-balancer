@@ -1,5 +1,4 @@
-# 3d-ball-balancer
-<h1> Ball balancer</h1>
+<h1> 3D Ball balancer</h1>
 
 <h2> Description </h2>
 <p> Game powered by unity.
