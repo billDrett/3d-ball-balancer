@@ -6,7 +6,7 @@ A simple Unity game where the player has to balance the ball on the board while 
 The player can use a power up with magic effects.
 </p>
 
-![Alt text](https://github.com/billDrett/clicky-crates/blob/main/game-screenshots/gameScreenShot.png?raw=true "In game screenshot")
+![Alt text](https://github.com/billDrett/3d-ball-balancer/blob/main/screenshots/gameplay_screenshot.png?raw=true "In game screenshot")
 
 <h2> Copyright and assets </h2>
 The assets for the Tutorial-4 "Create with code" were used for the game. The purpose is not commercial. 
