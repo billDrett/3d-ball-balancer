@@ -6,7 +6,6 @@ A simple Unity game where the player has to balance the ball on the board while 
 The player can use a power up with magic effects.
 </p>
 
-
 ![Alt text](https://github.com/billDrett/clicky-crates/blob/main/game-screenshots/gameScreenShot.png?raw=true "In game screenshot")
 
 <h2> Copyright and assets </h2>
